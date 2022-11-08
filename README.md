@@ -15,8 +15,8 @@
 ## 스터디 소개
 
 ### 📘 스터디 교재
-- 주교재 : Guido Sarah, <Introduction to Machine Learning with Python> , O'Reilly Media(2016)
-- 부교재 : 박해선, <혼자 공부하는 머신러닝+딥러닝> , 한빛미디어(2020)
+- 주교재 : Guido Sarah, [Introduction to Machine Learning with Python] , O'Reilly Media(2016)
+- 부교재 : 박해선, [혼자 공부하는 머신러닝+딥러닝] , 한빛미디어(2020)
 
 ### 💡 커리큘럼
 |주차|주제|참여한 competition|과제|
